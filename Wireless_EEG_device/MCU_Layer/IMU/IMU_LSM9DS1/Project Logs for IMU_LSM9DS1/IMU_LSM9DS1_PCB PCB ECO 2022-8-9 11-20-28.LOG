@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=IMU_LSM9DS1_SCH Member=U3
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0603(1608)100_N New Footprint=CAPC0603(1608)100_N
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Added Room: Name=IMU_LSM9DS1_SCH

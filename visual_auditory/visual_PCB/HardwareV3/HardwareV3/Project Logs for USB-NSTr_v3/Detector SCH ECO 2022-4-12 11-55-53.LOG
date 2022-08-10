@@ -1,0 +1,66 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C15
+Change Component Designator: OldDesignator=C3 NewDesignator=C14
+Change Component Designator: OldDesignator=C4 NewDesignator=C1
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=C12 NewDesignator=C5
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C11
+Change Component Designator: OldDesignator=FB1 NewDesignator=FB3
+Change Component Designator: OldDesignator=FB2 NewDesignator=FB4
+Change Component Designator: OldDesignator=FB3 NewDesignator=FB1
+Change Component Designator: OldDesignator=FB4 NewDesignator=FB2
+Change Component Designator: OldDesignator=P1 NewDesignator=P5
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P1
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R3 NewDesignator=R10
+Change Component Designator: OldDesignator=R4 NewDesignator=R13
+Change Component Designator: OldDesignator=R5 NewDesignator=R12
+Change Component Designator: OldDesignator=R6 NewDesignator=R1
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R2
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R3
+Change Component Designator: OldDesignator=R13 NewDesignator=R4
+Change Component Designator: OldDesignator=R14 NewDesignator=R5
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U1 NewDesignator=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Add Pin To Net: Pin=U1A-7 Old Net=NetU2_7 New Net=MCU_nRESET
+Add Pin To Net: Pin=U1A-21 Old Net=NetU2_21 New Net=USART3_TX
+Add Pin To Net: Pin=U1A-22 Old Net=NetU2_22 New Net=USART3_RX
+Add Pin To Net: Pin=U1A-29 Old Net=NetU2_29 New Net=TIM1_CH1
+Add Pin To Net: Pin=U1A-30 Old Net=NetU2_30 New Net=TIM1_CH2
+Add Pin To Net: Pin=U1A-32 Old Net=NetU2_32 New Net=USB_DM
+Add Pin To Net: Pin=U1A-33 Old Net=NetU2_33 New Net=USB_DP
+Add Pin To Net: Pin=U1A-34 Old Net=NetU2_34 New Net=MCU_SWDIO
+Add Pin To Net: Pin=U1A-37 Old Net=NetU2_37 New Net=MCU_SWDCK
+Add Pin To Net: Pin=U1A-42 Old Net=NetU2_42 New Net=USART1_TX
+Add Pin To Net: Pin=U1A-43 Old Net=NetU2_43 New Net=USART1_RX
+Add Pin To Net: Pin=U1A-44 Old Net=NetU2_44 New Net=MCU_BOOT0
+Add Pin To Net: Pin=U1A-45 Old Net=NetU2_45 New Net=StatusLED_1
+Add Pin To Net: Pin=U1A-46 Old Net=NetU2_46 New Net=StatusLED_2
+Add Pin To Net: Pin=U4B-3 Old Net=NetU3_3 New Net=TB3
+Add Pin To Net: Pin=U4B-5 Old Net=NetU3_5 New Net=TB2
+Add Pin To Net: Pin=U4B-7 Old Net=NetU3_7 New Net=TB1
+Add Pin To Net: Pin=U4B-9 Old Net=NetU3_9 New Net=TB0
+Add Pin To Net: Pin=U4A-12 Old Net=NetU3_12 New Net=TB7
+Add Pin To Net: Pin=U4A-14 Old Net=NetU3_14 New Net=TB6
+Add Pin To Net: Pin=U4A-16 Old Net=NetU3_16 New Net=TB5
+Add Pin To Net: Pin=U4A-18 Old Net=NetU3_18 New Net=TB4
+Change Pin Designator/Name:  Old Designator=U3B-7 Old Name=OUTB New Designator =INA+ New Name=3

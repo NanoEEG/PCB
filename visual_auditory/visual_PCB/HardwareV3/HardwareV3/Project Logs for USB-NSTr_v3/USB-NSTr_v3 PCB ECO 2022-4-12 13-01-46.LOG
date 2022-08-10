@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetP6_2 Pin=R13-1
+Added Pin To Net: NetName=NetP6_2 Pin=U3-7
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP6_3 Pin=R11-1
+Added Pin To Net: NetName=NetP6_3 Pin=U3-1
+Added Net: Name=NetP6_3
+Added Room: Name=Detector

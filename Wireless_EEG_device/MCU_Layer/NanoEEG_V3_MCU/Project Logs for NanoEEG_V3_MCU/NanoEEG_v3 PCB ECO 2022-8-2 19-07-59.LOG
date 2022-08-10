@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=3.3VD Pin=C22-2
+Removed Member From Class: ClassName=NanoEEG_v3 Member=C22
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R11 1K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R26 1K
+Added Room: Name=NanoEEG_v3

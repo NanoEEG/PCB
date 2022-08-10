@@ -1,0 +1,88 @@
+Remove Pin=U?A-1 From Net=nOE
+Remove Pin=U?A-2 From Net=TrIN4
+Remove Pin=U?B-3 From Net=TB3
+Remove Pin=U?A-4 From Net=TrIN5
+Remove Pin=U?B-5 From Net=TB2
+Remove Pin=U?A-6 From Net=TrIN6
+Remove Pin=U?A-7 From Net=MCU_nRESET
+Remove Pin=U?B-7 From Net=TB1
+Remove Pin=U?A-8 From Net=TrIN7
+Remove Pin=U?B-9 From Net=TB0
+Remove Pin=U?A-10 From Net=TrIN0
+Remove Pin=U?B-11 From Net=TrIN0
+Remove Pin=U?A-11 From Net=TrIN1
+Remove Pin=U?A-12 From Net=TB7
+Remove Pin=U?A-12 From Net=TrIN2
+Remove Pin=U?B-13 From Net=TrIN1
+Remove Pin=U?A-13 From Net=TrIN3
+Remove Pin=U?A-14 From Net=TB6
+Remove Pin=U?A-14 From Net=TrIN4
+Remove Pin=U?B-15 From Net=TrIN2
+Remove Pin=U?A-15 From Net=TrIN5
+Remove Pin=U?A-16 From Net=TB5
+Remove Pin=U?A-16 From Net=TrIN6
+Remove Pin=U?B-17 From Net=TrIN3
+Remove Pin=U?A-17 From Net=TrIN7
+Remove Pin=U?A-18 From Net=nOE
+Remove Pin=U?A-18 From Net=TB4
+Remove Pin=U?B-19 From Net=nOE
+Remove Pin=U?A-21 From Net=USART3_TX
+Remove Pin=U?A-22 From Net=USART3_RX
+Remove Pin=U?A-29 From Net=TIM1_CH1
+Remove Pin=U?A-30 From Net=TIM1_CH2
+Remove Pin=U?A-32 From Net=USB_DM
+Remove Pin=U?A-33 From Net=USB_DP
+Remove Pin=U?A-34 From Net=MCU_SWDIO
+Remove Pin=U?A-37 From Net=MCU_SWDCK
+Remove Pin=U?A-42 From Net=USART1_TX
+Remove Pin=U?A-43 From Net=USART1_RX
+Remove Pin=U?A-44 From Net=MCU_BOOT0
+Remove Pin=U?A-45 From Net=StatusLED_1
+Remove Pin=U?A-46 From Net=StatusLED_2
+Change Component Comment: Designator=R? Old Comment=3K3 1% New Comment=3K3 1% 0603(1608)
+Change Component Comment: Designator=C? Old Comment=100nF New Comment=CAP 100nF 6.3V
+Change Component Comment: Designator=R? Old Comment=RPot 10K New Comment=RPot
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB1
+Change Component Designator: OldDesignator=FB? NewDesignator=FB2
+Change Component Designator: OldDesignator=FB? NewDesignator=FB3
+Change Component Designator: OldDesignator=FB? NewDesignator=FB4
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1

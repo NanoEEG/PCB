@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=3.3VD Pin=R7-1
+Added Pin To Net: NetName=CC1310_nRESET Pin=R7-2
+Added Pin To Net: NetName=CC1310_nRESET Pin=SW1-2'
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=SW1-1'
+Added Net: Name=NetC9_1
+Added Member To Class: ClassName=triggerbox Member=Component C9 CAP 1uF 25V 0603(1608)
+Added Member To Class: ClassName=triggerbox Member=Component R7 10K 1% 0603(1608)
+Added Member To Class: ClassName=triggerbox Member=Component SW1 EVQ-P7D01K
+Added Room: Name=triggerbox

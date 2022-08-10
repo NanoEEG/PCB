@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Visual_label_PWM Pin=R13-2
+Added Pin To Net: NetName=NetP3_12 Pin=R13-2
+Added Pin To Net: NetName=NetR13_1 Pin=R14-1
+Added Pin To Net: NetName=Visual_label_PWM Pin=R14-2
+Added Member To Class: ClassName=triggerbox Member=Component R13 0
+Added Member To Class: ClassName=triggerbox Member=Component R14 1K 5%
+Added Room: Name=triggerbox

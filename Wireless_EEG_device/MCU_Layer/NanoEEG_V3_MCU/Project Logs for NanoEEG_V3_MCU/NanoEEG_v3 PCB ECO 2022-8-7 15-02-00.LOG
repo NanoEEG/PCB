@@ -1,0 +1,26 @@
+Added Component: Designator=P4(PCBComponent_1)
+Added Pin To Net: NetName=CS_M Pin=MOD1-18
+Added Net: Name=CS_M
+Added Pin To Net: NetName=CS Pin=MOD1-17
+Added Net: Name=CS
+Added Pin To Net: NetName=INT_1 Pin=MOD1-23
+Added Net: Name=INT_1
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component C12 CAP 4.7uF 10V 0603(1608)
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component C13 CAP 100nF 6.3V
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component C14 T491A106K016AT
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component C15 CAP 470nF 10V
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component P4 ponent_1
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R11 27K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R12 1K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R13 33K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R14 1K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R16 10K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R17 10K
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R18 10K
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R19 WSLP1206R0100FEA
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R20 10K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R21 10K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R24 10K 1% 0603(1608)
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R25 100R 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R26 100R 1%
+Added Room: Name=NanoEEG_v3

@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=RESC0603(1608)_N
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=1K 1%
+Change component parameters: Designator = "R1" ("R1"); Footprint = "AXIAL-0.3"; UniqueID = "\ROUVPUOP" ("\ROUVPUOP")
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW06031K00FKEB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000.00 Ohm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=triggerbox Member=Component C10 CAP 100uF 6.3V
+Added Member To Class: ClassName=triggerbox Member=Component D1 SP0503BAHTG
+Added Member To Class: ClassName=triggerbox Member=Component U3 SN74HC148DRG4
+Added Room: Name=triggerbox

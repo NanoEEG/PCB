@@ -1,0 +1,20 @@
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3VD Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=3.3VD Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=3.3VD Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Member To Class: ClassName=triggerbox Member=Component J1 105017-0001
+Added Member To Class: ClassName=triggerbox Member=Component M1 CC1310-Module (Silicontrac)
+Added Member To Class: ClassName=triggerbox Member=Component P? Header 3
+Added Member To Class: ClassName=triggerbox Member=Component P? Header 3
+Added Member To Class: ClassName=triggerbox Member=Component U1 CP2102N-A01-GQFN24
+Added Room: Name=triggerbox

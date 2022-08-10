@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=I2C_SCL_B Pin=P4-13
+Added Pin To Net: NetName=I2C_SDA_B Pin=P4-14
+Added Pin To Net: NetName=Mod_SCLK Pin=P4-15
+Added Pin To Net: NetName=Mod_MISO Pin=P4-16
+Added Pin To Net: NetName=Mod_MOSI Pin=P4-17
+Added Pin To Net: NetName=CS Pin=P4-18
+Added Pin To Net: NetName=CS_M Pin=P4-19
+Added Pin To Net: NetName=INT_1 Pin=P4-20
+Added Room: Name=NanoEEG_v3

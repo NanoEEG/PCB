@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=VBUS Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=VBUS Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=VBUS Pin=U3-8
+Added Component: Designator=R11(RESC0603(1608)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0603(1608)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0603(1608)_N)
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VBUS Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VBUS Pin=C15-2
+Added Pin To Net: NetName=VBUS Pin=R11-1
+Added Pin To Net: NetName=CP2102_VDD Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-2
+Added Pin To Net: NetName=NetR11_1 Pin=U3-8
+Added Net: Name=NetR11_1
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component C20 CAP 1uF 25V
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component M1 CC1310-Module (Silicontrac)
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R11 27K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R11 33K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R11 1K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R11 1K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R17 10K 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R26 1K
+Added Room: Name=NanoEEG_v3

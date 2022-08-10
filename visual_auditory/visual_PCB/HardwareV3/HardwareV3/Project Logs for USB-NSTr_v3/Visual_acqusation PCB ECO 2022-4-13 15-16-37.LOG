@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=USB-NSTr_v3 Member=C7
+Removed Member From Class: ClassName=USB-NSTr_v3 Member=R14
+Added Pin To Net: NetName=+5 Pin=U1-8
+Added Member To Class: ClassName=Detector Member=Component C1 CAP 100nF 6.3V
+Added Member To Class: ClassName=Detector Member=Component C2 CAP 100nF 6.3V
+Added Member To Class: ClassName=Detector Member=Component C3 CAP 100nF 6.3V
+Added Member To Class: ClassName=Detector Member=Component C5 CAP 100nF 6.3V
+Added Member To Class: ClassName=Detector Member=Component C6 CAP 100nF 6.3V
+Added Member To Class: ClassName=Detector Member=Component C7 CAP 100nF 6.3V
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C8 CAP 22pF
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C12 CAP 100nF 6.3V
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C14 CAP 100nF 6.3V
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C15 CAP 100nF 6.3V
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C16 CAP 10nF 16V
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C17 CAP 2.2uF 16V
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component C18 TAJA106K016RNJ
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component FB1 BLM18PG600SN1J
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component FB3 BLM18PG600SN1J
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component P3 MHDR1X3
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component P4 Header 2
+Added Member To Class: ClassName=Detector Member=Component R3 10K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R4 10K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R5 1K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R6 3K3 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R7 1K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R9 10K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R10 10K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R11 10K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R14 RPot SM
+Added Member To Class: ClassName=Detector Member=Component R15 1K 1% 0603(1608)
+Added Member To Class: ClassName=Detector Member=Component R17 1K 1% 0603(1608)
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component R19 10K 1% 0603(1608)
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component R20 1K 1%
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component R23 1M 1%
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component R24 27R 1%
+Added Member To Class: ClassName=USB-NSTr_v3 Member=Component R27 100R 1%
+Added Room: Name=Detector
+Added Room: Name=USB-NSTr_v3

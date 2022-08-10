@@ -1,0 +1,18 @@
+Added Component: Designator=P1(10pin 公头)
+Added Component: Designator=P2(10pin 公头)
+Added Pin To Net: NetName=3.3VD Pin=P1-1
+Added Pin To Net: NetName=3.3VD Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=INT_A Pin=P1-6
+Added Pin To Net: NetName=INT_G Pin=P1-7
+Added Pin To Net: NetName=INT_M Pin=P1-8
+Added Pin To Net: NetName=I2C_SCL Pin=P1-9
+Added Pin To Net: NetName=I2C_SDA Pin=P1-10
+Added Pin To Net: NetName=A/G_DATA_READY Pin=P2-1
+Added Pin To Net: NetName=M_DATA_READY Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Member To Class: ClassName=IMU_LSM9DS1_SCH Member=Component P1 5*2 公头
+Added Member To Class: ClassName=IMU_LSM9DS1_SCH Member=Component P2 5*2 公头
+Added Room: Name=IMU_LSM9DS1_SCH

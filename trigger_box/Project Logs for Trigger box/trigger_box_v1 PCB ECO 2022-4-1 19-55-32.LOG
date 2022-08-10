@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3VD Pin=R3-2
+Removed Member From Class: ClassName=triggerbox Member=LED6
+Removed Member From Class: ClassName=triggerbox Member=R3
+Added Room: Name=triggerbox

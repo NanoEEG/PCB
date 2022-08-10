@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=3.3VD Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=INT_1 Pin=P4-6
+Added Pin To Net: NetName=INT_2 Pin=P4-7
+Added Pin To Net: NetName=INT_3 Pin=P4-8
+Added Pin To Net: NetName=I2C_SCL_B Pin=P4-9
+Added Pin To Net: NetName=I2C_SDA_B Pin=P4-10
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P5-5
+Added Pin To Net: NetName=SPI_SCLK Pin=P5-6
+Added Pin To Net: NetName=SPI_MISO Pin=P5-7
+Added Pin To Net: NetName=SPI_MOSI Pin=P5-8
+Added Pin To Net: NetName=SPI_CS_A/G Pin=P5-9
+Added Pin To Net: NetName=SPI_CS_M Pin=P5-10
+Added Room: Name=NanoEEG_v3

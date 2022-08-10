@@ -1,0 +1,4 @@
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R31 100R 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R33 100R 1%
+Added Member To Class: ClassName=NanoEEG_v3 Member=Component R34 100K
+Added Room: Name=NanoEEG_v3

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Mod_SCLK Pin=P4-15
+Removed Pin From Net: NetName=Mod_MISO Pin=P4-16
+Removed Pin From Net: NetName=Mod_MOSI Pin=P4-17
+Removed Pin From Net: NetName=INT_1 Pin=P4-20
+Added Pin To Net: NetName=INT_1 Pin=P4-15
+Added Pin To Net: NetName=INT_2 Pin=MOD1-17
+Added Pin To Net: NetName=INT_2 Pin=P4-16
+Added Net: Name=INT_2
+Added Pin To Net: NetName=INT_3 Pin=MOD1-18
+Added Pin To Net: NetName=INT_3 Pin=P4-17
+Added Net: Name=INT_3
+Added Room: Name=NanoEEG_v3

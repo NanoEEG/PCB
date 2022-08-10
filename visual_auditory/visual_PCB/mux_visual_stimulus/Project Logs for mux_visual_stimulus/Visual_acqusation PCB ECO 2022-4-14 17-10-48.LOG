@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED Pin=R19-1
+Added Pin To Net: NetName=NetP1_9 Pin=R19-1
+Change Net Name : Old Net Name=LED New Net Name=NetP1_2
+Change Net Name : Old Net Name=NetP1_9 New Net Name=LED
+Added Room: Name=Detector

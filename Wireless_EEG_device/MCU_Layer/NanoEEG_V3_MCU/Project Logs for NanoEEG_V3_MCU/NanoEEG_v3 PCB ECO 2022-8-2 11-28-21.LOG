@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=BQ_nQON Pin=J4-1
+Removed Pin From Net: NetName=CC3235_JTAG_TDI Pin=J4-2
+Removed Pin From Net: NetName=CC3235_JTAG_TDO Pin=J4-3
+Removed Pin From Net: NetName=CC3235_JTAG_TCK Pin=J4-4
+Removed Pin From Net: NetName=CC3235_JTAG_TMS Pin=J4-5
+Removed Pin From Net: NetName=3.3VD Pin=J4-6
+Removed Pin From Net: NetName=BQ_nQON Pin=MOD1-25
+Removed Pin From Net: NetName=BQ_nQON Pin=SW1-1'
+Removed Pin From Net: NetName=BQ_nQON Pin=SW1-1'
+Removed Pin From Net: NetName=BQ_nQON Pin=SW1-2'
+Removed Pin From Net: NetName=BQ_nQON Pin=U2-12
+Removed Member From Class: ClassName=NanoEEG_v3 Member=J4
+Change Net Name : Old Net Name=BQ_nQON New Net Name=GND
+Added Pin To Net: NetName=BQ_nQON Pin=MOD1-25
+Added Pin To Net: NetName=BQ_nQON Pin=SW1-1'
+Added Pin To Net: NetName=BQ_nQON Pin=U2-12
+Added Net: Name=BQ_nQON
+Added Room: Name=NanoEEG_v3

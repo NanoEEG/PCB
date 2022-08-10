@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U3 Old Footprint=D0008A_M New Footprint=M08A_N
+Change Component Footprint: Designator=U3 Old Footprint=D0008A_M New Footprint=M08A_N
+Change Component Comment: Designator=R11 Old Comment=3K3 1% New Comment=1K 1% 0603(1608)
+Change Pin Designator/Name:  Old Designator=U3A-3 Old Name=INA+ New Designator =INA- New Name=2
